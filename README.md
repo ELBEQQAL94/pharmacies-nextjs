@@ -26,10 +26,10 @@
         * pharmacieId
         * isGuard
     
-* [ ] Create repo on gitlab.
-* [ ] Setup express and nodemon
-* [ ] Setup helmet and cors
-* [ ] Create handler errors Middleware
+* [x] Create repo on gitlab.
+* [x] Setup express and nodemon
+* [x] Setup helmet and cors
+* [x] Create handler errors Middleware
 * [ ] Setup mongodb
 * [ ] Connect mongodb
 * [ ] Create City Model
