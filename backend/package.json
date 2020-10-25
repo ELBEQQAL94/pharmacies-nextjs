@@ -16,9 +16,14 @@
     "express": "^4.17.1",
     "helmet": "^4.1.1",
     "mongoose": "^5.10.9",
+    "mongoose-data-seed": "^2.1.6",
+    "mongoose-seed": "^0.6.0",
     "morgan": "^1.10.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
+  },
+  "mdSeed": {
+    "seedersFolder": "./seeders"
   }
 }

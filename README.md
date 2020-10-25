@@ -6,7 +6,7 @@
 
 * [ ] Schema:
 ----
-    * [ ] City
+    * [x] City
         * id
         * name
     * [ ] Pharmacie
@@ -30,8 +30,9 @@
 * [x] Setup express and nodemon
 * [x] Setup helmet and cors
 * [x] Create handler errors Middleware
-* [ ] Setup mongodb
-* [ ] Connect mongodb
-* [ ] Create City Model
-* [ ] Create Cities resources
-* [ ] Insert cities into database
+* [x] Setup mongodb
+* [x] Connect mongodb
+* [x] Create City Model
+* [x] Create Cities resources
+* [x] Insert cities into database
+* [ ] create end point for cities
