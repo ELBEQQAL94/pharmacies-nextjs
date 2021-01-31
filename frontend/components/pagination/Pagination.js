@@ -17,13 +17,11 @@ const PaginationComponent = ({
   setCurrentPage, 
   totalPages,
 }) => {
+  
   const router = useRouter();
-  let history = router.history;
-  let pathname = router.pathname;
-  let search = router.search;
 
   useEffect(() => 
-    setQueryToUrl("page", currentPage, router)
+    setQueryToUrl(router)
   , [currentPage]);
 
   const handlePage = (event, value) => {
