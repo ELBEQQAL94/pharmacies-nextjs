@@ -1,0 +1,1304 @@
+[
+    {
+        "name": "Pharmacie El Haboul",
+        "address": "52, rue Sidi Hmamouch  MEKNES",
+        "phone": "05 35 53 41 92",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-el-haboul-/3199133/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie El Hakour",
+        "address": "23, bd Idriss II  MEKNES",
+        "phone": "06 69 08 39 66",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-el-hakour-/9019207/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie El Hamd",
+        "address": "197, rue Agadir, hay El Ezdihar MEKNES",
+        "phone": "05 35 54 89 49",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-el-hamd-/3250472/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie El Kettani",
+        "address": "92, Riad Zitoune , resid. Omrane MEKNES",
+        "phone": "05 35 46 43 55",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-el-kettani-/9018910/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie El Mellah",
+        "address": "3 Bis, rue six novembre, hay Riad MEKNES",
+        "phone": "05 35 53 84 17",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-el-mellah-/3226921/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Elamal",
+        "address": "1, bd Driba, Bab Lahjer Sidi Amer, 50000  MEKNES",
+        "phone": "05 35 53 07 86",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-elamal-/0313900/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Elbassatine",
+        "address": "bd Ahmed Benchekroune, sect. A n.9, Elbassatine, 50000  MEKNES",
+        "phone": "05 35 50 07 23",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-elbassatine-/0314000/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Elbayrouni",
+        "address": "21 Bis, bd Ibn Sina , 50000  MEKNES",
+        "phone": "05 35 52 46 04",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-elbayrouni-/0314100/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Elfath",
+        "address": "26, rue Sekkakine , 50000  MEKNES",
+        "phone": "05 35 53 17 80",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-elfath-/0314200/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie ElGharbi",
+        "address": "hay Naser , n°282 AIN TAOUJDATE (MEKNES)",
+        "phone": "05 35 44 17 91",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-elgharbi-/3224013/ain-taoujdate-meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie ElHanane",
+        "address": "43, hay Arrayhane, Ibn Rochd III MEKNES",
+        "phone": "05 35 40 07 08",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-elhanane-/3199840/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie ElMansour Marjane",
+        "address": "199, lotiss. Mansour, rte d'Agourai MEKNES",
+        "phone": "05 35 46 84 88",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-elmansour-marjane-/3199838/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie ElMenzeh",
+        "address": "6, bd Allal El Fassi  MEKNES",
+        "phone": "05 35 52 67 58",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-elmenzeh-/3045403/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Ennour",
+        "address": "71, rue Ifrane, hay AlAmal Ouislane MEKNES",
+        "phone": "05 35 54 84 32",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-ennour-/3199835/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Errachad",
+        "address": "hay borj Moulay Omar, Diour Tajmaouti groupement Laâyoune n°7 MEKNES",
+        "phone": "05 35 52 44 87",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-errachad-/3199833/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Espace Santé",
+        "address": "162, bd Massira El Khadra, hay Ouislane MEKNES",
+        "phone": "05 35 54 90 75",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-espace-sant-/3199831/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "pharmacie Essaadiyine",
+        "address": "12, bd Zitoune, resid Bel Koura Nouria MEKNES",
+        "phone": "05 35 50 54 68",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-essaadiyine-/9016641/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Ezzahwa",
+        "address": "227, lotiss. Ezzahwa  MEKNES",
+        "phone": "05 35 40 28 36",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-ezzahwa-/3199869/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Faculté de Droit",
+        "address": "23, hay Takadoum, Douar Jbala MEKNES",
+        "phone": "05 35 45 58 61",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-facult-de-droit-/3199868/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Faculté des lettres",
+        "address": "10, bd Bir Anzarane, lot. Farah MEKNES",
+        "phone": "05 35 45 13 19",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-facult-des-lettres-/3199867/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Bab Khemis",
+        "address": "1, rue Meknès, Riad MEKNES",
+        "phone": "05 35 53 78 68",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-bab-khemis-/3199644/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Bab Rha",
+        "address": "57, bab Rha, Berrima MEKNES",
+        "phone": "05 35 55 44 53",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-bab-rha-/3199643/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Badr",
+        "address": "bd Khalid Bnou Loualid, secteur 11 Borj My omar, 50000  MEKNES",
+        "phone": "05 35 52 29 14",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-badr-/1622800/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Bahajji",
+        "address": "655 Bis, hay Riad, Toulal MEKNES",
+        "phone": "05 35 46 01 94",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-bahajji-/3243090/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Balsame",
+        "address": "hay Al Amal, rue 1 n°1 sidi Bouzekri MEKNES",
+        "phone": "05 35 45 04 89",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-balsame-/3199642/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Basma",
+        "address": "59, hay Marjane 2, rte Agourai MEKNES",
+        "phone": "05 35 46 72 33",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-basma-/3199641/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Belair",
+        "address": "14, bd Allal El Fassi, résid. Ibn Sina MEKNES",
+        "phone": "05 35 51 28 07",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-belair-/3199640/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Belle Vue",
+        "address": "1 Bis, rue Mansour Eddahbi  MEKNES",
+        "phone": "06 64 11 61 49",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-belle-vue-/3199639/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Ben Moussa",
+        "address": "24, Derb Ahl Souss, hay Sultan Sidi Med Ben Abdellah Bab Kbich MEKNES",
+        "phone": "05 35 55 27 32",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-ben-moussa-/3274553/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Béni M'hamed",
+        "address": "132, lotiss. Chaouri  MEKNES",
+        "phone": "05 35 55 05 49",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-b-ni-m-hamed-/3199635/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Bismillah",
+        "address": "135, bd Essaadiyine, Bassatine MEKNES",
+        "phone": "05 35 50 15 79",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-bismillah-/3199649/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Bismillah Achafi",
+        "address": "100, hay Karim  AIN TAOUJDATE (MEKNES)",
+        "phone": "05 35 44 18 84",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-bismillah-achafi-/3225152/ain-taoujdate-meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Borj Machkouk",
+        "address": "bd Ferrane, borj Machkouk rue 16 n°1 MEKNES",
+        "phone": "05 35 53 93 94",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-borj-machkouk-/3199809/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Boughaleb",
+        "address": "56, lotiss. Laraichi, hay Al Bassatine MEKNES",
+        "phone": "05 35 50 07 76",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-boughaleb-/3199813/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Boumehdi",
+        "address": "267, lotiss. Moulay Youssef, oued Jdida MEKNES",
+        "phone": "05 35 54 75 11",
+        "location": "",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Bounoua",
+        "address": "3, rue Bir Anzarane, Rte ElHajeb MEKNES",
+        "phone": "05 35 52 18 09",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-bounoua-/3044718/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Bouziane",
+        "address": "5, Jnane Kitane  MEKNES",
+        "phone": "06 42 05 14 29",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-bouziane-/9018839/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Bridia",
+        "address": "hay Al Atlas, rue 13 n°59 Zitoune MEKNES",
+        "phone": "05 35 45 17 76",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-bridia-/3199817/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Centrale Meknès",
+        "address": "15, bd Mohammed V , 50000  MEKNES",
+        "phone": "05 35 52 11 81",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-centrale-mekn-s-/0313800/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Ain Taoujdate",
+        "address": "Route de Fés n°120 , Pam II AIN TAOUJDATE (MEKNES)",
+        "phone": "05 35 44 04 54",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-ain-taoujdate-/3197800/ain-taoujdate-meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Ait Ouallal",
+        "address": "Ait Oullal , Cercle de Ain Taoujdate AIN TAOUJDATE (MEKNES)",
+        "phone": "05 35 44 16 65",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-ait-ouallal-/3197822/ain-taoujdate-meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Al Afaq",
+        "address": "21 Bis, lotiss. Annasr 2, rte de Sefita MEKNES",
+        "phone": "05 35 53 71 22",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-al-afaq-/3198910/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Al Andalous",
+        "address": "53, lotiss. Al Andalouss, Zahwa Ain Maaza MEKNES",
+        "phone": "05 35 51 38 65",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-al-andalous-/3219202/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Al Assil",
+        "address": "lotiss. El Assil, Addoha Riad Toulal MEKNES",
+        "phone": "05 35 55 61 29",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-al-assil-/9016721/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Al Azhar",
+        "address": "227, lotiss. Riad Zitoune  MEKNES",
+        "phone": "05 35 46 53 24",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-al-azhar-/3217367/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Al Hikma",
+        "address": "63, rue Nador, hay Salam, Ouislane MEKNES",
+        "phone": "05 35 54 88 35",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-al-hikma-/3198943/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Al Ihssane",
+        "address": "hay Oujah Arous, sidi baba 3626 E MEKNES",
+        "phone": "05 35 55 43 27",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-al-ihssane-/3142061/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Al Ikhlasse",
+        "address": "27, hay Al Bassatine, lotiss. Laaraichi 6 MEKNES",
+        "phone": "05 35 50 29 81",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-al-ikhlasse-/3236455/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Al Ilham",
+        "address": "2, lotiss. Ennaim 6B, Narjiss 1 MEKNES",
+        "phone": "05 35 46 69 71",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-al-ilham-/3274705/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Al Inaya",
+        "address": "hay Oujah Arous, rue 16 n°333 MEKNES",
+        "phone": "05 35 53 09 06",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-al-inaya-/3198972/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Al Inbiâat",
+        "address": "hay Kamilia, lot Al Inbiâat 2 n°19 MEKNES",
+        "phone": "05 35 46 77 40",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-al-inbi-at-/3219136/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Al Irchad",
+        "address": "hay Al Wahda 3, n° 22 sidi bouzekri MEKNES",
+        "phone": "05 35 53 86 08",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-al-irchad-/3142058/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Al Jawarih",
+        "address": "152, hay Attadamone 2  MEKNES",
+        "phone": "05 35 46 54 62",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-al-jawarih-/3263931/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Al Khalil",
+        "address": "23, lotiss. Al Mountazah 1, bloc 25 Mejjat MEKNES",
+        "phone": "05 35 46 60 55",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-al-khalil-/9018977/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Al Madina",
+        "address": "92, lotiss. Al Ouahba  MEKNES",
+        "phone": "05 35 54 91 52",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-al-madina-/9018821/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Al Mahaj",
+        "address": "120, lotiss. Riad Al Omrane , tranche 2 MEKNES",
+        "phone": "06 24 58 98 24",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-al-mahaj-/9019202/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Al Manare",
+        "address": "lotiss. Al Manar, A6/A7 Hamriya MEKNES",
+        "phone": "05 35 51 32 38",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-al-manare-/3199557/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Al Mansouri",
+        "address": "lotiss. Mansour 2, imm. D34 n°1 & 2 MEKNES",
+        "phone": "05 35 46 75 79",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-al-mansouri-/3199554/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Al Massira",
+        "address": "5, bd Khalid Bnou Loualid, hay Al Massira MEKNES",
+        "phone": "05 35 51 74 74",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-al-massira-/3199565/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Chaab",
+        "address": "hay Kortoba, sect. 4 n°29 MEKNES",
+        "phone": "05 35 46 93 87",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-chaab-/3274564/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Chahdia",
+        "address": "lotiss. Chahdia, 3°tranche El Mansour n°291 MEKNES",
+        "phone": "05 35 45 48 60",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-chahdia-/3312356/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Chams",
+        "address": "rue Essaadiyine, résid. Mabrouka, imm. B ElBassatine MEKNES",
+        "phone": "05 35 50 08 81",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-chams-/3215940/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Chaouia",
+        "address": "bd Chaouia, lot. Chaoui n°2 Zitoune MEKNES",
+        "phone": "05 35 45 21 03",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-chaouia-/3199819/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Cheikh Elkamel",
+        "address": "96, bab Jdid, souk El Aouda, 50000  MEKNES",
+        "phone": "05 35 53 04 46",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-cheikh-elkamel-/1620500/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Chorafas",
+        "address": "27, bd Annasr, Sidi Saîd MEKNES",
+        "phone": "05 35 53 72 04",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-chorafas-/3202485/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Chrachar",
+        "address": "rue Moulay Slama Ben Zidane, Zitoune MEKNES",
+        "phone": "05 35 53 92 79",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-chrachar-/3199822/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Cité Univérsitaire",
+        "address": "hay Karkour, rue 38 n°79 bis MEKNES",
+        "phone": "05 35 55 00 23",
+        "location": "https://www.telecontact.ma/annonceur/pharmacie-cit-univ-rsitaire-/3199830/meknes.php",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Conseil",
+        "address": "hay Sidi Baba, douar Kdim n°584 MEKNES",
+        "phone": "05 35 55 43 39",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-conseil-/3199829/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Cornette",
+        "address": "10, Pl. Dr Giguet Cornette  MEKNES",
+        "phone": "05 35 40 30 96",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-cornette-/3199827/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Croissant Vert",
+        "address": "296, lotiss. Zarhounia , extension 4 MEKNES",
+        "phone": "05 35 53 53 05",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-croissant-vert-/9018919/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Dalia",
+        "address": "538, lotiss. Ismailia, Al Mountazah 2 MEKNES",
+        "phone": "05 35 46 23 37",
+        "location": "telecontact.ma/plan-acces/pharmacie-dalia-/9018914/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Dar Achifae",
+        "address": "1104, hay Al Bassatine 7, lot 2 MEKNES",
+        "phone": "05 35 50 16 60",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-dar-achifae-/9018865/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Dar ElKbira",
+        "address": "109, hay Al Amal, Sidi Ameur MEKNES",
+        "phone": "05 35 53 04 18",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-dar-elkbira-/3199826/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Dar Talib",
+        "address": "hay Marjane 2, Souk Municipale, n°1 MEKNES",
+        "phone": "05 35 46 71 57",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-dar-talib-/3215960/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Bab Kbich",
+        "address": "23, rue Zair, Sidi M'barek Zitoune MEKNES",
+        "phone": "05 35 43 95 84",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-bab-kbich-/3199645/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Oussama",
+        "address": "lotiss. Zitouna, rue 3, n°172 bis MEKNES",
+        "phone": "05 35 51 26 69",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-oussama-/3243690/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Palais AlMansour",
+        "address": "140 Bis, rue Kaa Mezouad, Zitoune MEKNES",
+        "phone": "05 35 55 13 66",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-palais-almansour-/3199836/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Pasteur",
+        "address": "56, bd Bir Anzarane, rte El Hajeb MEKNES",
+        "phone": "05 35 52 09 41",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-pasteur-/3199256/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Pharmassal",
+        "address": "858, Lot Al Mansour  MEKNES",
+        "phone": "05 35 46 96 68",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-pharmassal-/3218453/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie place d'armes",
+        "address": "25, bd Ibn Khaldoun , 50000  MEKNES",
+        "phone": "05 35 52 30 95",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-place-d-armes-/0314900/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Plaisance",
+        "address": "8 Bis, rte de Fès, Plaisance MEKNES",
+        "phone": "05 35 50 05 76",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-plaisance-/3199255/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Populaire",
+        "address": "65, bd El Mellah, Berrima, 50000  MEKNES",
+        "phone": "05 35 53 19 40",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-populaire-/0315000/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Prestige",
+        "address": "5, lot Taha Anassi  MEKNES",
+        "phone": "05 35 46 36 72",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-prestige-/9018907/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Principal Zitoune",
+        "address": "52, bd Abdelkrim Khattabi  MEKNES",
+        "phone": "05 30 10 23 72",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-principal-zitoune-/9018891/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Rabha",
+        "address": "hay Marjane 1, Tranche 1 n°22 MEKNES",
+        "phone": "05 35 46 77 98",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-rabha-/3216194/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Rahmouni",
+        "address": "7, lotiss. Riad, imm. Anassi, tranche K MEKNES",
+        "phone": "06 66 61 15 74",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-rahmouni-/9018921/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Rajae",
+        "address": "28, bd Lakhmiss, sidi baba MEKNES",
+        "phone": "05 35 53 45 16",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-rajae-/3199253/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Rawnak",
+        "address": "45, rue Jamaleddine El Afghani, résid. Al Andalous place d'armes MEKNES",
+        "phone": "05 35 51 13 42",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-rawnak-/3199252/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Redouane",
+        "address": "5, hay AL Boustane  MEKNES",
+        "phone": "05 35 54 88 83",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-redouane-/9018840/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Remmal",
+        "address": "4, rue El Mariniyine, Belle Vue MEKNES",
+        "phone": "05 35 40 13 82",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-remmal-/3218649/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Rhazzali",
+        "address": "104, rue Sebta, q. Qods, Ouislane MEKNES",
+        "phone": "05 35 54 81 46",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-rhazzali-/3199243/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Rhribi",
+        "address": "hay Toulal, rue 1 n°262 MEKNES",
+        "phone": "05 35 55 94 92",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-rhribi-/3216011/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Riad Al Andalouss",
+        "address": "88, lotiss. yassine , tranche 1 MEKNES",
+        "phone": "06 13 53 35 33",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-riad-al-andalouss-/9018904/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Riad Assiha",
+        "address": "322, bd Massira El Khadra, hay Riad Ouislane MEKNES",
+        "phone": "05 35 54 81 37",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-riad-assiha-/3260318/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Riad Meknes",
+        "address": "180, bd El Qods, hay Riad MEKNES",
+        "phone": "05 35 53 84 99",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-riad-meknes-/3216222/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Riad Ouislane",
+        "address": "5, hay Ouislane, programme Jaber MEKNES",
+        "phone": "05 35 54 99 28",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-riad-ouislane-/3279782/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Riad Salam",
+        "address": "24, lotiss. Fatiha, Riad I MEKNES",
+        "phone": "05 35 45 49 77",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-riad-salam-/3199239/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Hibat Allah",
+        "address": "hay Essalam, rue 14 n°886 MEKNES",
+        "phone": "05 35 55 90 50",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-hibat-allah-/3274557/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Hicham",
+        "address": "70, hay Walili  AIN TAOUJDATE (MEKNES)",
+        "phone": "05 35 44 04 74",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-hicham-/3224173/ain-taoujdate-meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Hôpital Militaire",
+        "address": "233, hay Al Bassatine, Alem 6 MEKNES",
+        "phone": "05 35 50 12 19",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-h-pital-militaire-/3271034/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Hôpital Mohamed V",
+        "address": "34, lotiss. Ismailia 8  MEKNES",
+        "phone": "05 35 52 49 81",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-h-pital-mohamed-v-/3199883/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Ibn Hazm",
+        "address": "188, rte Agourai, Inbiaat II MEKNES",
+        "phone": "05 35 46 77 05",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-ibn-hazm-/3219139/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Ibn Khaldoun",
+        "address": "176, bd des F.a.r.  MEKNES",
+        "phone": "05 35 52 47 48",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-ibn-khaldoun-/3199879/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Ibn Nafis",
+        "address": "hay Al Bassatine 7, El Hafra MEKNES",
+        "phone": "05 35 50 11 40",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-ibn-nafis-/3199878/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Ibn Sina",
+        "address": "10, rue Rahal El Meskini, Touarga MEKNES",
+        "phone": "05 35 53 84 68",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-ibn-sina-/3199876/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Ibn Tofail",
+        "address": "116, hay Marjane 3, hay Nassim 1 MEKNES",
+        "phone": "05 35 46 70 90",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-ibn-tofail-/3218856/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Ibnou Bajaa",
+        "address": "lotiss. Al Manar, reisd Ibnou Rochd MEKNES",
+        "phone": "05 35 51 63 83",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-ibnou-bajaa-/9016655/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Ibtissamat Annaim",
+        "address": "65, lotiss. Ennaim 3  MEKNES",
+        "phone": "05 35 46 88 02",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-ibtissamat-annaim-/9016506/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Ikamate Lamsalla",
+        "address": "251, rue Tadusso  MEKNES",
+        "phone": "06 32 95 25 33",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-ikamate-lamsalla-/9018898/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie In Yansorkom Allah",
+        "address": "35, lotiss. Al Bassatine  MEKNES",
+        "phone": "05 35 50 22 46",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-in-yansorkom-allah-/3215953/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Injad",
+        "address": "297, lotiss. Dakhla, hay Salam MEKNES",
+        "phone": "05 35 53 00 92",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-injad-/3215967/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Iraqi",
+        "address": "56, bd Essaadiyine, Al Bassatine MEKNES",
+        "phone": "05 35 50 47 15",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-iraqi-/3271039/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Israe",
+        "address": "88, bd Essaadiyine  MEKNES",
+        "phone": "05 35 52 88 88",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-israe-/3199873/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Itry",
+        "address": "Gare Oncf  MEKNES",
+        "phone": "05 35 52 66 53",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-itry-/3199871/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Jamaa Roua",
+        "address": "1, bd Chaouia, Jamaa Roua MEKNES",
+        "phone": "05 35 45 10 99",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-jamaa-roua-/3199870/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Jameaa Essoussi",
+        "address": "lotiss. Ennaim 2, R90 MEKNES",
+        "phone": "05 35 53 99 03",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-jameaa-essoussi-/3215077/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Jawharat Bassatine",
+        "address": "4, lotiss. jawharat Bassatine  MEKNES",
+        "phone": "05 35 50 46 17",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-jawharat-bassatine-/9016631/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Riad Zitoune",
+        "address": "539, hay Marjane 3, lotiss. Riad Zitoune MEKNES",
+        "phone": "05 35 46 82 29",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-riad-zitoune-/3241825/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Rond Point Caméra",
+        "address": "7, bd Mohammed V  MEKNES",
+        "phone": "05 35 52 04 08",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-rond-point-cam-ra-/3099294/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Rouamzine",
+        "address": "79, rue Rouamzine  MEKNES",
+        "phone": "05 35 53 02 21",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-rouamzine-/3148064/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Route d'Agourai",
+        "address": "937, hay Marjane 2  MEKNES",
+        "phone": "05 35 46 71 19",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-route-d-agourai-/3216192/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Route de Fès",
+        "address": "bd des F.a.r., lotiss. Al Wifaq MEKNES",
+        "phone": "05 35 51 59 66",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-route-de-f-s-/3199237/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Route Sefita",
+        "address": "12, rte Agourai, résid. Sijilmassa MEKNES",
+        "phone": "05 35 46 92 71",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-route-sefita-/3274693/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Rtimi",
+        "address": "52, bd Abdelkrim Khattabi, Zitoune MEKNES",
+        "phone": "05 35 55 08 88",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-rtimi-/3199648/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Ryad Al Omrane",
+        "address": "hay El Menzeh  MEKNES",
+        "phone": "06 44 16 56 60",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-ryad-al-omrane-/9018869/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Ryad Toulal",
+        "address": "122, lotiss. Riad Toulal 1  MEKNES",
+        "phone": "05 35 46 13 66",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-ryad-toulal-/9018858/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Saada",
+        "address": "78, bd Abdelkrim Khattabi, Sbata, 50000  MEKNES",
+        "phone": "05 35 53 77 17",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-saada-/0315400/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Saadi",
+        "address": "lotiss. Chahdia, bloc B résid. Youssef n°1 MEKNES",
+        "phone": "05 50 01 20 29",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-saadi-/3274742/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Safae",
+        "address": "lotiss. Annasr, rue 8 n°190, Rte d'agourai MEKNES",
+        "phone": "05 35 53 60 56",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-safae-/3199232/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Saif-Eddine",
+        "address": "lotiss. El Wafa 2, Bab Bettioui MEKNES",
+        "phone": "05 35 46 45 45",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-saif-eddine-/3274746/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Salima",
+        "address": "27, rue Zellaqa  MEKNES",
+        "phone": "05 35 51 50 49",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-salima-/3044755/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Santé et Nature",
+        "address": "18, hay Andalous, rue El Michkat MEKNES",
+        "phone": "05 36 50 13 20",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-sant-et-nature-/9016529/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Saramito",
+        "address": "hay Touarga, Saramito 5 n°35 MEKNES",
+        "phone": "05 35 53 65 81",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-saramito-/3225289/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Sbai",
+        "address": "lotiss. Mansour 2 A, imm. B1 n°3 et 4 MEKNES",
+        "phone": "05 35 46 73 56",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-sbai-/3199225/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Sevilla",
+        "address": "299, lotiss. El Fath 2  MEKNES",
+        "phone": "05 35 55 40 77",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-sevilla-/9018862/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Shimi",
+        "address": "37 Bis, rue Ambroise, Saada la Touraine MEKNES",
+        "phone": "05 35 45 43 76",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-shimi-/3199223/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie des urgences",
+        "address": "9, bd Yacoub El Mansour  MEKNES",
+        "phone": "05 35 52 38 14",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-des-urgences-/3044854/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Diour Assalam",
+        "address": "138, hay Diour Essalam, n°138, av Annasr MEKNES",
+        "phone": "05 35 55 20 93",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-diour-assalam-/3249569/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Diour Jdad",
+        "address": "hay Bni Mhammed, diour Jdaf n°771, Sbata MEKNES",
+        "phone": "05 35 45 29 25",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-diour-jdad-/3112132/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie du Borj",
+        "address": "11, bd Khalid Bnou Loualid, secteur 9, 50000  MEKNES",
+        "phone": "05 35 52 35 35",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-du-borj-/0313700/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie du Croissant",
+        "address": "hay Toulal, rue 1 n°103/105 MEKNES",
+        "phone": "05 35 55 94 73",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-du-croissant-/3199846/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie du Jour",
+        "address": "2, rue Oqba Bnou Nafiaa, Place Al Andalous MEKNES",
+        "phone": "05 35 52 02 66",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-du-jour-/3199845/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie du Mechouar",
+        "address": "1, derb Sakka, kasbat Hadrache MEKNES",
+        "phone": "05 35 46 03 91",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-du-mechouar-/3199300/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie du Progrès",
+        "address": "3, bd Dar Smen, Derb Zemmouri, 50000  MEKNES",
+        "phone": "05 35 53 04 14",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-du-progr-s-/0315200/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie du Quartier",
+        "address": "hay Zerhounia, rue 2 n°55 bis Sidi Said MEKNES",
+        "phone": "05 35 53 37 76",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-du-quartier-/3199842/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Dyar Toulal",
+        "address": "10, rue Lakrai , q. adm Toulal MEKNES",
+        "phone": "05 35 43 35 26",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-dyar-toulal-/9018857/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie El Anouar",
+        "address": "1364, hay Marjane 5, Sidi Bouzekri MEKNES",
+        "phone": "05 35 45 07 47",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-el-anouar-/3199841/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie El Boustane",
+        "address": "hay Ouislane, imm. A1 n°3 El Boustane MEKNES",
+        "phone": "05 35 54 84 97",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-el-boustane-/3244018/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Azouhour",
+        "address": "2334, hay Al Bassatine 7, Tranche 2 Bougaraa MEKNES",
+        "phone": "05 35 50 37 01",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-azouhour-/3271050/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Azzahra",
+        "address": "25, hay Toulal  MEKNES",
+        "phone": "05 35 55 83 99",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-azzahra-/9016501/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Bab Berdaine",
+        "address": "6, rue Mokhtar, pl.Bab Berdaine MEKNES",
+        "phone": "05 35 53 37 57",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-bab-berdaine-/3199646/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie La Farge",
+        "address": "76, lotiss. la Farge  MEKNES",
+        "phone": "05 35 50 91 00",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-la-farge-/9018875/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie la Référence",
+        "address": "lotiss. Mimosas, résid. Adam MEKNES",
+        "phone": "05 35 52 84 10",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-la-r-f-rence-/3218885/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie la Rosée",
+        "address": "bd Moulay Youssef ang. Abou Ali ben Rahal MEKNES",
+        "phone": "05 35 52 61 41",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-la-ros-e-/3199112/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Lahbib",
+        "address": "358, hay Marjane 2  MEKNES",
+        "phone": "06 63 65 73 90",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-lahbib-/9016504/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Lahlimi",
+        "address": "664, hay Agdal  MEKNES",
+        "phone": "05 35 53 50 08",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-lahlimi-/3199141/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Lamzouri",
+        "address": "153, lotiss. Kamelia, rue Agouray, sect B tranche 2 MEKNES",
+        "phone": "05 35 45 92 41",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-lamzouri-/9018924/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Layane",
+        "address": "336 Bis, hay Al Atlas 1, Oued El Makhazine MEKNES",
+        "phone": "05 35 55 09 58",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-layane-/3197421/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Layla",
+        "address": "1104, lotiss. Al Bassatine 7, tranche II MEKNES",
+        "phone": "05 35 50 26 97",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-layla-/3272430/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie le Bien Etre",
+        "address": "5, hay AL Boustane, Dkhissa MEKNES",
+        "phone": "05 35 36 10 21",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-le-bien-etre-/9018818/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie le Bonheur",
+        "address": "361, lotiss. Annaim, riad Ismailia, n°2 MEKNES",
+        "phone": "05 35 46 88 77",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-le-bonheur-/9018893/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Le Jasmin",
+        "address": "lotiss. Riad Zitoune, B.E. n°7 MEKNES",
+        "phone": "05 35 46 77 78",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-le-jasmin-/3199885/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie les Nobles",
+        "address": "hay Marjane 1, tranche 2 Samouni n°26 MEKNES",
+        "phone": "05 35 46 61 51",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-les-nobles-/3177003/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie les Parents",
+        "address": "lotiss. Mansour 6, imm. C n°1, rte Sefita MEKNES",
+        "phone": "05 35 46 74 07",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-les-parents-/3274585/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Liberté",
+        "address": "14, bd Chefchaouni, Bni M'hamed, 50000  MEKNES",
+        "phone": "05 35 53 70 16",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-libert-/1622200/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Lina",
+        "address": "10, rue El Mourabitine  MEKNES",
+        "phone": "05 35 40 27 51",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-lina-/3199148/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Lokmane",
+        "address": "72, lotiss. Amine, rte Hadj Kaddour MEKNES",
+        "phone": "05 35 51 51 18",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-lokmane-/3274741/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Louali",
+        "address": "hay Essalam 1  MEKNES",
+        "phone": "05 35 53 50 44",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-louali-/3199153/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Lycée My Ismail",
+        "address": "1, rue Ali Wahbi, résid. Hiba MEKNES",
+        "phone": "05 35 52 58 73",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-lyc-e-my-ismail-/3271048/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Lyosr",
+        "address": "rte de Fès, km 3, imm. Maghraoui n°4 MEKNES",
+        "phone": "05 35 52 45 69",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-lyosr-/3176974/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Mabrouka",
+        "address": "181, rue Atlas 3, hay Sabonné, sidi Bouzekri MEKNES",
+        "phone": "05 35 43 96 11",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-mabrouka-/3199171/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Jibraltar",
+        "address": "138, rue Casablanca, hay Al Izdihar, Ouislane MEKNES",
+        "phone": "05 35 54 86 97",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-jibraltar-/3199887/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Kamelia",
+        "address": "239, lotiss. Kamelia, rte Agourai MEKNES",
+        "phone": "05 35 46 60 12",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-kamelia-/3199890/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Karim",
+        "address": "Centre Bouderbala  MEKNES",
+        "phone": "05 35 54 65 83",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-karim-/3199892/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Kasbat",
+        "address": "25, bd Lalla Khadra, kasbat MEKNES",
+        "phone": "05 35 53 39 99",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-kasbat-/3199073/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Khalid",
+        "address": "116, hay El Menzeh, imm 16 blof F, Elmajd MEKNES",
+        "phone": "05 35 54 89 00",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-khalid-/9018825/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Kobbat Essouk",
+        "address": "ancienne Médina, kiss. ben Aouad n°6 MEKNES",
+        "phone": "05 35 55 64 99",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-kobbat-essouk-/3199077/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Kortoba",
+        "address": "hay Kortoba, sect.2 n°72 MEKNES",
+        "phone": "05 35 53 70 82",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-kortoba-/3241970/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie L'agdal",
+        "address": "91, hay Agdal , 50000  MEKNES",
+        "phone": "05 35 53 08 47",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-l-agdal-/1624500/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie l'Hacienda",
+        "address": "rue Dawha, douar Jdid grp. 7 n°85 l'Hacienda MEKNES",
+        "phone": "05 35 40 47 27",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-l-hacienda-/3199862/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie l'Océan",
+        "address": "rte Agourai, résid. sijilmassa, imm. B 10 n°6 MEKNES",
+        "phone": "05 35 46 62 07",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-l-oc-an-/3218423/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Machtaqi",
+        "address": "299 Bis, lotiss. El Fath 2, Toulal MEKNES",
+        "phone": "05 35 55 40 77",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-machtaqi-/3216009/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Mamounia",
+        "address": "26, rte de Fès, résid. Fadwa MEKNES",
+        "phone": "05 35 51 16 17",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-mamounia-/3202483/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Marmoucha",
+        "address": "hay Sidi Bouzekri  MEKNES",
+        "phone": "05 35 45 38 95",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-marmoucha-/9018947/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Grande Gare",
+        "address": "hay Ismailia 2, imm. 5 n°3 bd. Ibn Sina MEKNES",
+        "phone": "05 35 40 44 93",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-grande-gare-/3199864/meknes",
+        "city": "Meknès"
+    },
+    {
+        "name": "Pharmacie Hamria",
+        "address": "14, rue Ferhat Hachad  MEKNES",
+        "phone": "05 35 40 16 08",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-hamria-/3044714/meknes",
+        "city": "Meknès"
+    }
+]

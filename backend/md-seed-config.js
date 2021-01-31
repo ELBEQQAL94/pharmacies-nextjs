@@ -1,5 +1,6 @@
 const mongoose  = require('mongoose');
 const CitySeeder = require('./seeders/CitySeeder');
+const PharmacySeeder = require('./seeders/PharmacySeeder');
 const mongoURL = "mongodb+srv://ELBEQQAL:fuck0675058801@cluster0.m7kbe.mongodb.net/pharmacies_db";
 
 /**
@@ -8,7 +9,8 @@ const mongoURL = "mongodb+srv://ELBEQQAL:fuck0675058801@cluster0.m7kbe.mongodb.n
  * @type {Object}
  */
 const seedersList = {
-  CitySeeder
+  CitySeeder,
+  PharmacySeeder,
 };
 /**
  * Connect to mongodb implementation

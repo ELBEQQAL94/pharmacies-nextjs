@@ -1,0 +1,380 @@
+[
+    {
+        "name": "Pharmacie de Khémisset",
+        "address": "4, rue de la Gendarmerie Royale , 15000  KHEMISSET",
+        "phone": "05 37 55 21 31",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-de-kh-misset-/0308100/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie de Ville",
+        "address": "193, rue Oued Sebou , hay Zahra KHEMISSET",
+        "phone": "05 37 55 11 46",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-de-ville-/3197667/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie des Cliniques",
+        "address": "av. Khalid Ibn El Oualid , lot Hakamat KHEMISSET",
+        "phone": "05 37 55 10 18",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-des-cliniques-/3272191/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie des Zemmours",
+        "address": "274, bd Mohammed V , 15000  KHEMISSET",
+        "phone": "05 37 55 27 94",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-des-zemmours-/0308600/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie du sahara",
+        "address": "128, Rue Zerktouni , 15000  KHEMISSET",
+        "phone": "05 37 55 21 64",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-du-sahara-/0298300/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie ElBassatine",
+        "address": "110, lot ElBassatine 2  KHEMISSET",
+        "phone": "05 37 55 56 38",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-elbassatine-/3197682/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie ElHana",
+        "address": "31, rue Safsaf , cité AlHana KHEMISSET",
+        "phone": "05 37 55 52 71",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-elhana-/3197684/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie ElMouna",
+        "address": "227, lot ElMouna  KHEMISSET",
+        "phone": "05 37 55 91 69",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-elmouna-/3197688/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie ElWahda",
+        "address": "155, rue Ibn Zaidoune , cité ElWahda KHEMISSET",
+        "phone": "05 37 55 27 13",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-elwahda-/3197691/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie ElYasmine",
+        "address": "985, lot ElYasmine  KHEMISSET",
+        "phone": "05 37 55 44 04",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-elyasmine-/3197693/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Essalam",
+        "address": "147, av. Bir Anzarane , hay Salam KHEMISSET",
+        "phone": "05 37 55 30 22",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-essalam-/3197698/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Firdaous",
+        "address": "158 Bis, rue Cdt Driss Harti , hay Essalam KHEMISSET",
+        "phone": "05 37 55 05 50",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-firdaous-/3197700/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Hakamat",
+        "address": "28, rue Benzert , lot Hakamat KHEMISSET",
+        "phone": "05 37 55 24 44",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-hakamat-/3197719/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Hay Serghini",
+        "address": "62, rue Mokhtar Soussi  KHEMISSET",
+        "phone": "05 37 55 01 27",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-hay-serghini-/3197717/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Hôpital",
+        "address": "av. Ibn Sina  KHEMISSET",
+        "phone": "05 37 55 20 03",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-h-pital-/3197714/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Hourri",
+        "address": "rue Ait Baamrane , hay Najah KHEMISSET",
+        "phone": "05 37 55 84 74",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-hourri-/3197712/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Ibn AlBaytar",
+        "address": "61, lotiss. El Fath  KHEMISSET",
+        "phone": "05 37 55 11 10",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-ibn-albaytar-/3197708/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Ibn Sina",
+        "address": "Rue Ibn Sina , 15000  KHEMISSET",
+        "phone": "05 37 55 23 38",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-ibn-sina-/1478500/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Imam Malik",
+        "address": "7, lotiss. Al Yasmine  KHEMISSET",
+        "phone": "05 35 55 86 31",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-imam-malik-/3197706/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Jaouhara",
+        "address": "59, rue Farhat Hachad  KHEMISSET",
+        "phone": "05 37 55 02 69",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-jaouhara-/3197703/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Alwafae",
+        "address": "185, av. Mohammed V  KHEMISSET",
+        "phone": "05 37 55 85 26",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-alwafae-/3295801/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Annasr",
+        "address": "75, av Khalid Ben Loualid  KHEMISSET",
+        "phone": "05 37 55 41 25",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-annasr-/3197637/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Arrachad",
+        "address": "115, bd Mohammed V  KHEMISSET",
+        "phone": "05 37 55 44 00",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-arrachad-/1168500/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Arrahma",
+        "address": "77 Bis, rue Oued Tensift , Zahrra KHEMISSET",
+        "phone": "05 37 55 88 16",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-arrahma-/3197640/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Asmae",
+        "address": "av. Ouahrane , hay Sidi Ghrib , lot n°202 KHEMISSET",
+        "phone": "05 37 55 22 85",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-asmae-/3197643/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Assafar",
+        "address": "hay Riad , bloc 19 lot 17 KHEMISSET",
+        "phone": "05 37 55 76 75",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-assafar-/3197645/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Belmiloudi",
+        "address": "875, lotiss. Belmiloudi  KHEMISSET",
+        "phone": "05 37 55 33 34",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-belmiloudi-/3336016/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Berrada",
+        "address": "441, av. Allal Ben Abdellah  KHEMISSET",
+        "phone": "05 37 55 65 49",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-berrada-/3197650/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Bismillah",
+        "address": "Centre Ait Ouali  KHEMISSET",
+        "phone": "05 37 51 09 51",
+        "location": "",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Bouchaara",
+        "address": "94, av. Allal Ben Abdellah  KHEMISSET",
+        "phone": "05 37 55 54 44",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-bouchaara-/3197660/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Cadi Ayad",
+        "address": "rue Oued Sebou , hay Zahra KHEMISSET",
+        "phone": "05 37 55 10 55",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-cadi-ayad-/3197657/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Centrale",
+        "address": "149, rue Rahmani Allal , hay Essalam KHEMISSET",
+        "phone": "05 37 55 32 26",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-centrale-/3197664/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Chana",
+        "address": "326, av Mohamed Zerktouni  KHEMISSET",
+        "phone": "05 37 55 22 59",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-chana-/3197676/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Conseil",
+        "address": "210, Amicale Essalam  KHEMISSET",
+        "phone": "05 37 55 96 27",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-conseil-/3197670/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Le Chateau",
+        "address": "393, av Mohamed Zerktouni , hay ElFarah I KHEMISSET",
+        "phone": "05 37 55 92 90",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-le-chateau-/3197728/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie lirac",
+        "address": "19, rue Abou Dhabi  KHEMISSET",
+        "phone": "05 37 55 62 34",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-lirac-/3197732/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Maamora",
+        "address": "14, av. Abderrahmane Zemmouri , hay Maâmoura KHEMISSET",
+        "phone": "05 37 55 65 59",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-maamora-/3197733/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie marhaba",
+        "address": "83, rue Chana Omar , Hay Essalam KHEMISSET",
+        "phone": "05 37 55 82 97",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-marhaba-/3056870/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Meriem",
+        "address": "152, rue Bouchaib Doukkali  KHEMISSET",
+        "phone": "05 37 55 89 99",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-meriem-/3197743/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Msjid Alamane",
+        "address": "rue Abou Chouaib Doukkali  KHEMISSET",
+        "phone": "05 37 55 08 00",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-msjid-alamane-/3197739/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Najah",
+        "address": "rue Ait Abbou  KHEMISSET",
+        "phone": "05 37 55 13 45",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-najah-/3197752/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Naji",
+        "address": "645, Amicale El Farah 2  KHEMISSET",
+        "phone": "05 37 55 94 53",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-naji-/3197548/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie populaire",
+        "address": "147, Rue Ibnou Sina , 15000  KHEMISSET",
+        "phone": "05 37 55 25 43",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-populaire-/0308300/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Sara",
+        "address": "123, rue El Wattassiyne  KHEMISSET",
+        "phone": "05 37 55 89 83",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-sara-/3305608/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Sidi Ghandour",
+        "address": "Sidi Ghandour , n°510 Errataha KHEMISSET",
+        "phone": "05 37 55 16 29",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-sidi-ghandour-/3197552/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Sidi Ghrib",
+        "address": "56, Rue AlWardinyene  KHEMISSET",
+        "phone": "05 37 55 92 22",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-sidi-ghrib-/3197553/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Souk Ezzahra",
+        "address": "62, hay Ezzahra  KHEMISSET",
+        "phone": "05 37 55 87 32",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-souk-ezzahra-/3197538/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Taddart",
+        "address": "114, av Mohamed V , lot Taddart KHEMISSET",
+        "phone": "05 37 55 56 43",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-taddart-/3197539/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Taibi",
+        "address": "125, av AlAlaouine , Yasmine I KHEMISSET",
+        "phone": "05 37 55 48 18",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-taibi-/3197540/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Zahra",
+        "address": "Rue Oued Abi Regrag , hay Zahra KHEMISSET",
+        "phone": "05 37 55 21 05",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-zahra-/3197541/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Zerktouni",
+        "address": "460, Rue Mohamed Zerktouni  KHEMISSET",
+        "phone": "05 87 55 89 78",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-zerktouni-/3197542/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Zône Industrielle",
+        "address": "51, rue Tawfik Al Hakim , hay El Wahda KHEMISSET",
+        "phone": "05 37 55 97 58",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-z-ne-industrielle-/3197544/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Ait Yadine",
+        "address": "Ait Yadine  KHEMISSET",
+        "phone": "05 37 51 33 11",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-ait-yadine-/3197569/khemisset",
+        "city": "Khémisset"
+    },
+    {
+        "name": "Pharmacie Al Karama",
+        "address": "1, rue Ait Seghrouchen , hay Al Karama KHEMISSET",
+        "phone": "05 37 55 95 69",
+        "location": "",
+        "city": "Khémisset"
+    }
+]

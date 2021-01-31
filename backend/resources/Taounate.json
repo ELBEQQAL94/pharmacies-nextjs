@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Pharmacie Douae",
+    "address": "av Hassan II , q. Al Barid TAOUNATE",
+    "phone": "05 35 68 75 08",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-douae-/3200183/taounate",
+    "city": "Taounate"
+  },
+  {
+    "name": "Pharmacie Hôpital",
+    "address": "56, bd Oued Eddahab  TAOUNATE",
+    "phone": "05 35 68 83 80",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-h-pital-/3200146/taounate",
+    "city": "Taounate"
+  },
+  {
+    "name": "Pharmacie la Santé",
+    "address": "quartier Ouled Said  TAOUNATE",
+    "phone": "05 35 68 84 42",
+    "location": "",
+    "city": "Taounate"
+  },
+  {
+    "name": "Pharmacie Nouvelle Arabi",
+    "address": "bd Mohammed V , rte de Fès, 34000  TAOUNATE",
+    "phone": "05 35 62 72 43",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-nouvelle-arabi-/1790300/taounate",
+    "city": "Taounate"
+  },
+  {
+    "name": "Pharmacie Ouled Said",
+    "address": "Quartier Ouled Said  TAOUNATE",
+    "phone": "05 35 68 75 71",
+    "location": "",
+    "city": "Taounate"
+  },
+  {
+    "name": "Pharmacie Tafrant",
+    "address": "centre Tafrant  TAOUNATE",
+    "phone": "05 35 68 75 68",
+    "location": "",
+    "city": "Taounate"
+  },
+  {
+    "name": "Pharmacie Taounate",
+    "address": "bd. Mohamed V , 34000  TAOUNATE",
+    "phone": "05 35 62 71 64",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-taounate-/1790400/taounate",
+    "city": "Taounate"
+  },
+  {
+    "name": "Pharmacie Achifa",
+    "address": "18, av Mohammed V , Ahbas TAOUNATE",
+    "phone": "05 35 68 93 11",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-achifa-/3200189/taounate",
+    "city": "Taounate"
+  },
+  {
+    "name": "Pharmacie Bouhouda",
+    "address": "Centre Bouhouda  TAOUNATE",
+    "phone": "05 35 68 75 91",
+    "location": "",
+    "city": "Taounate"
+  },
+  {
+    "name": "Pharmacie Centrale",
+    "address": "27, bd Mohammed V  TAOUNATE",
+    "phone": "05 35 68 82 73",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-centrale-/2200977/taounate",
+    "city": "Taounate"
+  },
+  {
+    "name": "Pharmacie Dchiar",
+    "address": "Quartier Dchiar , rte. de Ketama TAOUNATE",
+    "phone": "05 35 68 75 30",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-dchiar-/3200185/taounate",
+    "city": "Taounate"
+  }
+]

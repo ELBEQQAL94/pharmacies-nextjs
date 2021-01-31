@@ -5,6 +5,11 @@ require('dotenv').config();
 const cors = require('cors');
 const { notFound, errorHandler } = require('./error_handlers');
 
+// Routes
+const cities = require('./api/routes/citiesRoute');
+const pharmacies = require('./api/routes/pharmaciesRoute');
+
+
 const app = express();
 
 // Middleware
@@ -21,6 +26,10 @@ app.get('/', (req, res) => {
     message: 'Hello World!',
   });
 });
+
+app.use('/api/v1/cities', cities);
+app.use('/api/v1/pharmacies', pharmacies);
+
 
 app.use(notFound);
 app.use(errorHandler);

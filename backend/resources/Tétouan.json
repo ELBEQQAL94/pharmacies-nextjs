@@ -1,0 +1,639 @@
+[
+    {
+        "name": "Pharmacie Jamaâ Mezouak",
+        "address": "26, rue AlMamoune  TETOUAN",
+        "phone": "05 39 96 18 44",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-jama-mezouak-/3067441/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Jbel Dersa",
+        "address": "1, rue Al Hizam Al Akhdar , Jbel Dersa TETOUAN",
+        "phone": "05 39 70 23 10",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-jbel-dersa-/3052578/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Khalladi",
+        "address": "271, rue Kaboule  TETOUAN",
+        "phone": "05 39 97 41 23",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-khalladi-/3046238/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Khandak Zerbouh",
+        "address": "96, av. Abdellah Chefchaouni  TETOUAN",
+        "phone": "05 39 71 42 91",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-khandak-zerbouh-/3068683/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie l'Hôpital",
+        "address": "225, av. Mohammadia Touta  TETOUAN",
+        "phone": "05 39 99 93 45",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-l-h-pital-/3046237/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie La Cassia",
+        "address": "Complexe la Cassia , Bloc 4 rte N16 Cabo- Negro, 93150  TETOUAN",
+        "phone": "05 39 97 89 78",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-la-cassia-/3228352/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Laamrani",
+        "address": "bd Slimane Ben Mahran , rte Tanger TETOUAN",
+        "phone": "05 39 96 90 58",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-laamrani-/3282348/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Laouzienne",
+        "address": "rue Wahb ibn Manbah , Rte de Tanger, Louziyène TETOUAN",
+        "phone": "05 39 96 98 22",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-laouzienne-/3313290/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Lawada",
+        "address": "29, av. khalid Bnou Loualid  TETOUAN",
+        "phone": "05 39 70 04 96",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-lawada-/3047108/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Lina",
+        "address": "10, bd Attahrir ang rue Mabrouka TETOUAN",
+        "phone": "05 39 71 50 71",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-lina-/3226439/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Lukach",
+        "address": "bd Abdellah El Fakhar , km 3 rte Azla hay Kouilma, oued Law TETOUAN",
+        "phone": "05 39 99 86 66",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-lukach-/3313277/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie M'salah Kdima",
+        "address": "58, bd M'salah Kdima , bab Rmouze TETOUAN",
+        "phone": "05 39 96 07 96",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-m-salah-kdima-/3046261/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Mall",
+        "address": "13, bd Joulane, hay Al Matar TETOUAN",
+        "phone": "06 60 95 92 97",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-mall-/9014608/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Marjane",
+        "address": "rte de Sebta, c/com. Marjane  TETOUAN",
+        "phone": "05 39 99 18 61",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-marjane-/3156971/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Masrah Al Wilaya",
+        "address": "127, av 9 Avril , lot. Al Matar résid. Al Houriya TETOUAN",
+        "phone": "05 39 97 13 00",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-masrah-al-wilaya-/3226003/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Mellah",
+        "address": "17, rue Al Ankari , hay Al Qods TETOUAN",
+        "phone": "05 39 70 39 95",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-mellah-/3268201/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Mestassi",
+        "address": "128, av. Sebta M'hannech II  TETOUAN",
+        "phone": "05 39 99 91 49",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-mestassi-/3126766/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Mhanech",
+        "address": "2, av El Hajeb , Mhanech II TETOUAN",
+        "phone": "05 39 99 10 59",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-mhanech-/3046243/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Mosquée AlOumma",
+        "address": "39, av. Abdelkhalek Torres  TETOUAN",
+        "phone": "05 39 97 13 47",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-mosqu-e-aloumma-/3046235/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Mosquée Hassan II",
+        "address": "70, av Chakib Arsalane  TETOUAN",
+        "phone": "05 39 70 15 75",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-mosqu-e-hassan-ii-/3046826/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Bab Nouader",
+        "address": "13, av. laayoune  TETOUAN",
+        "phone": "05 39 70 01 95",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-bab-nouader-/3047140/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Bab Saïda",
+        "address": "24, rue Sloukia Sidi Saïdi  TETOUAN",
+        "phone": "05 39 99 71 51",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-bab-sa-da-/3065202/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Babtout",
+        "address": "6, rue Prince Héritier  TETOUAN",
+        "phone": "05 39 96 74 58",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-babtout-/3046850/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Baghdad",
+        "address": "rue Mamoun , Jamaâ Mezouak TETOUAN",
+        "phone": "05 39 70 03 26",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-baghdad-/3146230/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Barrio Malaga",
+        "address": "182, av. Abdelkrim Khattabi  TETOUAN",
+        "phone": "05 39 96 01 66",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-barrio-malaga-/3067320/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Ben Abduluahab",
+        "address": "209, Bd Jabal hayane  TETOUAN",
+        "phone": "05 39 99 28 84",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-ben-abduluahab-/3316754/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Ben Ajiba",
+        "address": "3, av. Thami Ouazzani , rue Badr Chakir TETOUAN",
+        "phone": "05 39 97 00 54",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-ben-ajiba-/3047117/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Benchekroun",
+        "address": "71, bd Al Azhar, lotiss al wikaya TETOUAN",
+        "phone": "06 15 45 28 89",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-benchekroun-/3316722/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie BenTahar",
+        "address": "105, rue Ben Yedder , Coelma TETOUAN",
+        "phone": "05 39 99 81 40",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-bentahar-/3065047/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Bentaouit",
+        "address": "4, rue Oued Sebou  TETOUAN",
+        "phone": "05 39 70 00 66",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-bentaouit-/3102973/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Birouni",
+        "address": "102, Rue Abdelkhalek Torres , 93000  TETOUAN",
+        "phone": "05 39 97 30 10",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-birouni-/1500500/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Boras",
+        "address": "av. Med ElKharraz , rue 4 n°4 TETOUAN",
+        "phone": "05 39 97 13 43",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-boras-/3047115/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Bouanane",
+        "address": "Saf ElHamam , rte. Torreta n°6 TETOUAN",
+        "phone": "05 39 99 00 22",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-bouanane-/3200596/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Bouatyaoui",
+        "address": "3, av. Joulane , rue 3 n° 21, hay Soukna Ouataamir TETOUAN",
+        "phone": "05 39 99 40 86",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-bouatyaoui-/3068664/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Boujarah",
+        "address": "47, av. Hadj Med. Bennouna, Boujarrah  TETOUAN",
+        "phone": "05 39 99 50 10",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-boujarah-/3065200/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Boussafou",
+        "address": "150, av Haj Mohamed Benouna , Touila TETOUAN",
+        "phone": "05 39 97 32 32",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-boussafou-/3103713/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Carthaje",
+        "address": "7, bd Bni Maaden , n°7 hay Qwilma rte Oued Laou TETOUAN",
+        "phone": "05 39 99 01 31",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-carthaje-/3268283/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Centrale",
+        "address": "2, Rue Mohammed Torres , 93000  TETOUAN",
+        "phone": "05 39 96 03 36",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-centrale-/0333600/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Chaachoo",
+        "address": "30, bd Egypte , hay Matar lotiss. Souani TETOUAN",
+        "phone": "05 39 99 51 47",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-chaachoo-/3266140/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Chaara",
+        "address": "1, av Ibn El Moukafaa , hay Al Madrassi TETOUAN",
+        "phone": "05 39 71 16 50",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-chaara-/3046251/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Touria",
+        "address": "bd Oued Martil , rue 7 n°2 TETOUAN",
+        "phone": "05 39 71 16 05",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-touria-/3268135/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Touta",
+        "address": "106, rue Mohammedia , ElMhannach TETOUAN",
+        "phone": "05 39 99 14 79",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-touta-/3068652/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Wilaya Center",
+        "address": "5, rue Caire, imm Nouria TETOUAN",
+        "phone": "08 08 51 94 68",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-wilaya-center-/9014654/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Zaitoune",
+        "address": "commune Zaitoune , kiadat Ben Karriche TETOUAN",
+        "phone": "05 39 99 01 85",
+        "location": "",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Zamzam",
+        "address": "75, av. de Casablanca , M'hannech II TETOUAN",
+        "phone": "05 39 99 04 45",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-zamzam-/3046247/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Zekri",
+        "address": "56, rue Al Wiam , av de Rif, Khandak Zer Bouh TETOUAN",
+        "phone": "05 39 71 41 16",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-zekri-/3248671/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Ziana",
+        "address": "254, rue Mohamed Ameziane  TETOUAN",
+        "phone": "05 39 99 01 90",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-ziana-/3046229/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Zoubairi",
+        "address": "255, rue Billal Ben Rabbah  TETOUAN",
+        "phone": "05 39 71 07 88",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-zoubairi-/3064423/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Grande  Pharmacie du Nord",
+        "address": "11, bd. Mohammed V , 93000  TETOUAN",
+        "phone": "05 39 96 22 07",
+        "location": "https://www.telecontact.ma/plan-acces/grande-pharmacie-du-nord-/2150744/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Grande  Pharmacie Nouvelle",
+        "address": "10, rue 10 Mai  TETOUAN",
+        "phone": "05 39 96 62 55",
+        "location": "https://www.telecontact.ma/plan-acces/grande-pharmacie-nouvelle-/3046833/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie 2000",
+        "address": "3, av. Moussaïd Med Mrabet Taboula  TETOUAN",
+        "phone": "05 39 71 24 42",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-2000-/3065192/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie 9 Avril",
+        "address": "70, av 9 Avril , hay Al Matar TETOUAN",
+        "phone": "05 39 99 34 16",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-9-avril-/3200594/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Abou Bakr Seddek",
+        "address": "363, bd Abou Bakr Essedik, Dersa TETOUAN",
+        "phone": "05 39 96 44 66",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-abou-bakr-seddek-/3065209/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Achaab",
+        "address": "58, av. Abdelkrim Khatabi , 93000  TETOUAN",
+        "phone": "05 39 70 29 84",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-achaab-/0333200/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Achahbar",
+        "address": "47, bd. Masket, soukna wa Taamir  TETOUAN",
+        "phone": "05 39 97 47 59",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-achahbar-/3157607/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Achifaa",
+        "address": "17, av. Mohamed Torres  TETOUAN",
+        "phone": "05 39 96 55 11",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-achifaa-/3047172/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Afassi",
+        "address": "27, av. Dakka , Touabel Soufla TETOUAN",
+        "phone": "05 39 99 71 99",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-afassi-/3069839/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Ahali Coelma",
+        "address": "485, hay Boujdad  TETOUAN",
+        "phone": "05 39 97 17 13",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-ahali-coelma-/3266613/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Ahraou",
+        "address": "187, bd Al MaEmoun , rte Samsa Jamaâ Mezouak TETOUAN",
+        "phone": "05 39 71 95 56",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-ahraou-/3125262/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Ain Khabbaz",
+        "address": "131, rue Oum Rabie  TETOUAN",
+        "phone": "05 39 71 31 33",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-ain-khabbaz-/3046340/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Aïn Melloul",
+        "address": "14, rue ElFannous  TETOUAN",
+        "phone": "05 39 71 54 51",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-a-n-melloul-/3148785/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Aïn Sidi Talha",
+        "address": "11, rue Zoubeir Bnou El Aouam, Sidi Talha TETOUAN",
+        "phone": "05 39 71 28 04",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-a-n-sidi-talha-/3068681/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Akbat ElHallouf",
+        "address": "55, av. Khénifra , Mhanech II TETOUAN",
+        "phone": "05 39 99 93 16",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-akbat-elhallouf-/3068677/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Al Aqsa",
+        "address": "71, av Casablanca , résid. Al Amal M'Hannech II n°3 TETOUAN",
+        "phone": "05 39 99 09 52",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-al-aqsa-/3226104/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Al Qods",
+        "address": "1, rue Moritania  TETOUAN",
+        "phone": "05 39 70 03 09",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-al-qods-/3046384/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Al Walidayne",
+        "address": "hay Touibla , Marjane n°26 TETOUAN",
+        "phone": "06 26 48 59 09",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-al-walidayne-/3313282/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Al-Wilaya",
+        "address": "3, av des Far  TETOUAN",
+        "phone": "05 39 99 25 11",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-al-wilaya-/3226396/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie AlAbawaine",
+        "address": "av. Chikh Ben Arbi Alaoui , Boujarrah Alia TETOUAN",
+        "phone": "05 39 97 01 62",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-alabawaine-/3065195/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie AlAmal",
+        "address": "343, av. Hadj Med. Bennouna  TETOUAN",
+        "phone": "05 39 99 86 46",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-alamal-/3065197/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie AlAndalous",
+        "address": "av Tarifa , rue A n°22 Touabel Soufla TETOUAN",
+        "phone": "05 39 99 49 47",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-alandalous-/3064333/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie AlHamama",
+        "address": "av My Hassan Ben ElMehdi , pl. AlHamama TETOUAN",
+        "phone": "05 39 96 80 08",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-alhamama-/3046357/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Alismailia",
+        "address": "hay Boussafou , av Alismailia TETOUAN",
+        "phone": "05 39 71 54 43",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-alismailia-/3248881/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie AlMatar",
+        "address": "32, rue AlFarah , av. Mehdi Benbarka TETOUAN",
+        "phone": "05 39 99 32 29",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-almatar-/3102977/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Almou",
+        "address": "173, hay kalalien , lotiss. baissa TETOUAN",
+        "phone": "05 39 72 38 38",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-almou-/9014628/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie AlWikaya",
+        "address": "171, lotiss. AlWikaya  TETOUAN",
+        "phone": "05 39 96 91 12",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-alwikaya-/3278857/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Assalam",
+        "address": "lotiss. Tamouda , n°10 hay Nekata TETOUAN",
+        "phone": "05 39 70 40 87",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-assalam-/3314982/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Chams",
+        "address": "6, lotis. Kasbat Azahra , bloc 3, imm.A TETOUAN",
+        "phone": "06 27 22 50 59",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-chams-/9014635/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Chellal",
+        "address": "8, av. Moulay Abbass  TETOUAN",
+        "phone": "05 39 96 06 15",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-chellal-/3046837/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Chikri",
+        "address": "105, av. M'fadel Afailal  TETOUAN",
+        "phone": "05 39 99 31 28",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-chikri-/3046248/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Chtouki",
+        "address": "13, bd Hassan al mahdi  TETOUAN",
+        "phone": "07 00 76 15 85",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-chtouki-/9014588/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Coelma",
+        "address": "63, av. Sidi Abdellah Alfakhar  TETOUAN",
+        "phone": "05 39 99 65 00",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-coelma-/3049334/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Dar Dmana",
+        "address": "672, av Haj Mohamed Bennouna Touilaa  TETOUAN",
+        "phone": "05 39 99 52 91",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-dar-dmana-/3104669/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Dar Morsia",
+        "address": "Bd Ahmed al bakal  TETOUAN",
+        "phone": "05 39 96 89 10",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-dar-morsia-/3316758/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Derdabi",
+        "address": "7, Sakia Elfoukia Fendak  TETOUAN",
+        "phone": "05 39 99 11 09",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-derdabi-/3046252/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Dersa principale",
+        "address": "606, av. Otman Ibn Affane Jbel Dersa  TETOUAN",
+        "phone": "05 39 71 05 85",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-dersa-principale-/3065166/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie des Cliniques",
+        "address": "7, av. Moussa Bnou Noussair  TETOUAN",
+        "phone": "05 39 70 34 14",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-des-cliniques-/3046355/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie destin",
+        "address": "56, av. AlMoatassim lot. Mribtou hôpital Espagnol TETOUAN",
+        "phone": "05 39 71 02 88",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-destin-/3065027/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Dior ElMakhzen",
+        "address": "38 Bis, Av. Abou Obaida Ibn Jarrah  TETOUAN",
+        "phone": "05 39 96 07 49",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-dior-elmakhzen-/3068659/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie Dream",
+        "address": "quartier Touabel , lotiss. Ain Melloul II n°82 TETOUAN",
+        "phone": "05 39 71 52 21",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-dream-/3266136/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie El Amraoui",
+        "address": "84, rue Walili, lotis. Mounia TETOUAN",
+        "phone": "05 39 71 55 61",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-el-amraoui-/3313294/tetouan",
+        "city": "Tétouan"
+    },
+    {
+        "name": "Pharmacie El Azmi",
+        "address": "383, bd Mokhtar Soussi, Boujrah Al Faoukiya TETOUAN",
+        "phone": "05 39 99 53 65",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-el-azmi-/3316328/tetouan",
+        "city": "Tétouan"
+    }
+]

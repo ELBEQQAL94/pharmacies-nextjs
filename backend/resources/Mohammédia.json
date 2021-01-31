@@ -1,0 +1,604 @@
+[
+  {
+    "name": "Pharmacie Bradaa",
+    "address": "700, lotiss. la Colline , 28820  MOHAMMEDIA",
+    "phone": "05 23 31 24 73",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-bradaa-/2144984/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Cadi Tazi",
+    "address": "334, bd Cadi Tazi, Hassania I, 28830  MOHAMMEDIA",
+    "phone": "05 23 28 31 52",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-cadi-tazi-/2172746/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Centrale",
+    "address": "5, bd Sebta, résid. Laila ElAlia, 28820  MOHAMMEDIA",
+    "phone": "05 23 32 32 31",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-centrale-/3164976/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Chabab",
+    "address": "3, bd El Houria, hay Castor, 28830  MOHAMMEDIA",
+    "phone": "05 23 32 44 41",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-chabab-/0315700/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Chaker",
+    "address": "65, lotiss. Riad Essalam  MOHAMMEDIA",
+    "phone": "05 23 30 03 28",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-chaker-/3275789/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Chifa",
+    "address": "Hay Hassania II, bloc B, n°213, 28830  MOHAMMEDIA",
+    "phone": "05 23 28 22 52",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-chifa-/2206543/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Claude Monet",
+    "address": "73, bd Yacoub El Mansour , 28800  MOHAMMEDIA",
+    "phone": "05 23 32 55 20",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-claude-monet-/3129375/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie de l'Avenue",
+    "address": "bd Mohammed V ang. rue du Rif, 28800  MOHAMMEDIA",
+    "phone": "05 23 32 05 02",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-de-l-avenue-/3211088/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie de l'Espoir",
+    "address": "5, bd Sebta, douar Essafa MOHAMMEDIA",
+    "phone": "05 23 28 03 69",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-de-l-espoir-/3275786/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie de l'Hôpital",
+    "address": "56, rue la Fontaine, hay Nicolas, 20800  MOHAMMEDIA",
+    "phone": "05 23 31 51 66",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-de-l-h-pital-/2158626/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie de la Colline",
+    "address": "196, bd Al Moukaouama , 28810  MOHAMMEDIA",
+    "phone": "05 23 32 60 16",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-de-la-colline-/3039037/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie de la Kasbah",
+    "address": "rue Mansour Eddahbi , 28800  MOHAMMEDIA",
+    "phone": "05 23 32 20 71",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-de-la-kasbah-/0316200/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie de la Piscine",
+    "address": "bd Abderrahman Serghini , 28800  MOHAMMEDIA",
+    "phone": "05 23 31 19 07",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-de-la-piscine-/1399200/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie de la Plage",
+    "address": "bd Fès, imm. du Parc, 28810  MOHAMMEDIA",
+    "phone": "05 23 32 47 80",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-de-la-plage-/0316500/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Derb Marrakech",
+    "address": "bd Al Maghrib Al Arabi, bloc 11 n°50, El Alia, 28830  MOHAMMEDIA",
+    "phone": "05 23 32 24 78",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-derb-marrakech-/0315800/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie des Eucalyptus",
+    "address": "242, hay El Wafa , 28810  MOHAMMEDIA",
+    "phone": "05 23 30 12 26",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-des-eucalyptus-/2207102/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Diyar El Alia",
+    "address": "Hay El Alia, Diyar El Alia, résid. El Fath GH 7, imm. 10 mag. 10 MOHAMMEDIA",
+    "phone": "05 23 30 35 22",
+    "location": "",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie du Maghreb",
+    "address": "23, bd des F.a.r. , 28800  MOHAMMEDIA",
+    "phone": "05 23 32 24 16",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-du-maghreb-/0316300/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie du Port",
+    "address": "bd Ferhat Hachad ang. rue Ibn Toumart, 28810  MOHAMMEDIA",
+    "phone": "05 23 30 48 17",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-du-port-/3108875/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie El Hassania",
+    "address": "165, bd Al Moukaouama , 28830  MOHAMMEDIA",
+    "phone": "05 23 28 76 61",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-el-hassania-/2110061/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Assounnah",
+    "address": "93, bd Al Moukaouama, Derb ElFath ElAlia, 28830  MOHAMMEDIA",
+    "phone": "05 23 31 05 70",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-assounnah-/1534600/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Aswak Assalam",
+    "address": "4, bd Hassan II, c.com Aswak Assalam MOHAMMEDIA",
+    "phone": "05 23 32 76 62",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-aswak-assalam-/3311621/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Atlantic",
+    "address": "rte Côtière Rabat, km 1 résid. Beverly House, 28800  MOHAMMEDIA",
+    "phone": "05 23 33 00 47",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-atlantic-/3214536/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Ayour",
+    "address": "18, bd Fès ang. bd Allal El Fassi, 28800  MOHAMMEDIA",
+    "phone": "05 23 31 07 42",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-ayour-/3129236/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Baghdad",
+    "address": "13, rue Baghdad , 28800  MOHAMMEDIA",
+    "phone": "05 23 31 02 96",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-baghdad-/1455200/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Bd Hassan II",
+    "address": "21, bd Hassan II, résid. Galia MOHAMMEDIA",
+    "phone": "05 23 32 01 64",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-bd-hassan-ii-/3335800/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Bismillah",
+    "address": "hay Errachidia III, Ecran samir n°39 Alia, 28830  MOHAMMEDIA",
+    "phone": "05 23 28 07 17",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-bismillah-/3129543/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Zeyneb",
+    "address": "hay Bradaa, rue 9 n°300, 28820  MOHAMMEDIA",
+    "phone": "05 23 23 32 05",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-zeyneb-/3199313/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "La Grande  Pharmacie",
+    "address": "bd Hassan II, imm. Warda, 28800  MOHAMMEDIA",
+    "phone": "05 23 32 01 10",
+    "location": "https://www.telecontact.ma/plan-acces/la-grande-pharmacie-/3164553/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie 3 Mars",
+    "address": "rue Ifrane, résid. 3 Mars imm 31, n°2, 28800  MOHAMMEDIA",
+    "phone": "05 23 32 25 85",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-3-mars-/3201585/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Abderrahim",
+    "address": "169, lotiss. Moumen  MOHAMMEDIA",
+    "phone": "05 23 31 61 36",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-abderrahim-/3311308/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Aicha",
+    "address": "74, lotiss. Essalam, Alia MOHAMMEDIA",
+    "phone": "05 23 28 28 05",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-aicha-/3275791/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Al Hamd",
+    "address": "150, lotiss. Riad Essalam , 28820  MOHAMMEDIA",
+    "phone": "05 23 30 05 45",
+    "location": "",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie AlAkssa",
+    "address": "bd Palestine, lotiss. Ben Hamdoun n°5 El Alia, 28830  MOHAMMEDIA",
+    "phone": "05 23 28 10 80",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-alakssa-/3129580/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie AlBachir",
+    "address": "13, lotiss. Inara 1 , 28810  MOHAMMEDIA",
+    "phone": "05 23 32 27 68",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-albachir-/2206545/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie AlFajr",
+    "address": "11, bd Riad, lotiss. Al Fajr, 28820  MOHAMMEDIA",
+    "phone": "05 23 28 06 01",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-alfajr-/3129408/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie AlFalah",
+    "address": "1676, bd Riad , 28830  MOHAMMEDIA",
+    "phone": "05 23 28 33 14",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-alfalah-/3072118/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie AlFath",
+    "address": "Hay Hassania I, rue G n°586 El Alia, 28830  MOHAMMEDIA",
+    "phone": "05 23 28 09 71",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-alfath-/0315600/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie AlMajd",
+    "address": "34, bd Al Moukaouama, Riad I, 28830  MOHAMMEDIA",
+    "phone": "05 23 31 29 92",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-almajd-/1535200/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie AlMoqawama",
+    "address": "16, bd Al Moukaouama, ElAlia, 28830  MOHAMMEDIA",
+    "phone": "05 23 31 43 04",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-almoqawama-/2158688/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie AlMouna",
+    "address": "340 Bis, derb Chabab C, El Alia, 28830  MOHAMMEDIA",
+    "phone": "05 23 32 36 87",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-almouna-/3039084/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie AlQods",
+    "address": "400, bd Onze Janvier, hay El Qods, la Colline, 28820  MOHAMMEDIA",
+    "phone": "05 23 30 19 57",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-alqods-/2218123/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Amal Soussi",
+    "address": "Dyar Al Mansour , GH 195 M 01 Ain Harrouda MOHAMMEDIA",
+    "phone": "05 23 30 02 10",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-amal-soussi-/3312837/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Amina",
+    "address": "43, bd Sebta, hay Chhaouta El Alia, 28820  MOHAMMEDIA",
+    "phone": "05 23 28 52 12",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-amina-/2150024/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Anfa 2000",
+    "address": "bd Sebta, C. Com. d'Anfa n°34, 28820  MOHAMMEDIA",
+    "phone": "05 23 30 55 70",
+    "location": "pharmacie anfa 2000",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Palmier",
+    "address": "bd Mohamed Zerktouni ang. bd Abdelmoumen résid. Palmier imm. B n°4, 28810  MOHAMMEDIA",
+    "phone": "05 23 32 98 95",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-palmier-/3079909/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Printemps",
+    "address": "Plage Tilal, résid. Tilal n°3 Mimosa, 28810  MOHAMMEDIA",
+    "phone": "06 74 67 45 90",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-printemps-/3214533/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Radia",
+    "address": "2, rue Souss , 28800  MOHAMMEDIA",
+    "phone": "05 23 32 22 77",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-radia-/2172547/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Rawan",
+    "address": "606, lotiss. Nahda  MOHAMMEDIA",
+    "phone": "05 23 32 71 17",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-rawan-/3275788/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Riad",
+    "address": "162, bd Monastir, derb Chabab, 28830  MOHAMMEDIA",
+    "phone": "05 23 32 36 05",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-riad-/0316600/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Riad El Ali",
+    "address": "32, lotiss. Riad Essalam , 28820  MOHAMMEDIA",
+    "phone": "05 23 28 28 15",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-riad-el-ali-/3214532/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Riad Essalam",
+    "address": "73, lotiss. Riad Essalam , 28840  MOHAMMEDIA",
+    "phone": "05 23 28 37 00",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-riad-essalam-/3163372/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Rif",
+    "address": "4, bd Sebta, résid. Nabil imm. B, 28820  MOHAMMEDIA",
+    "phone": "05 23 28 13 60",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-rif-/3129416/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Sarah",
+    "address": "hay Errachidia III, bloc A n°184, El Alia, 28830  MOHAMMEDIA",
+    "phone": "05 23 28 62 81",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-sarah-/2110236/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Sebta",
+    "address": "2, bd Sebta, résid. Sebta imm. C, 28820  MOHAMMEDIA",
+    "phone": "05 23 28 22 06",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-sebta-/3211540/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Soleil",
+    "address": "lotiss. Soleil, mosquée Soleil n°7, 28820  MOHAMMEDIA",
+    "phone": "05 23 30 27 77",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-soleil-/3108879/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Souss",
+    "address": "154, rue Souss, Hassan II, 20650  MOHAMMEDIA",
+    "phone": "05 23 32 59 12",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-souss-/2110227/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Wafa",
+    "address": "144, hay El Wafa , 28810  MOHAMMEDIA",
+    "phone": "05 23 32 15 15",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-wafa-/2194611/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Yasmina",
+    "address": "136 Bis, bd Hassan II, lotiss. Soleil, 28820  MOHAMMEDIA",
+    "phone": "05 23 30 56 89",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-yasmina-/3129437/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Youssef",
+    "address": "138, Hay Hassania II, El Alia, 28830  MOHAMMEDIA",
+    "phone": "05 23 28 77 57",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-youssef-/2110087/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie El Idrissi",
+    "address": "bd Mokhtar Soussi, hay Ennasr n°1 ElAlia MOHAMMEDIA",
+    "phone": "05 23 28 03 85",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-el-idrissi-/3129372/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie El Misri I",
+    "address": "bd Hassan II, les Flourianes, 28820  MOHAMMEDIA",
+    "phone": "05 23 30 34 50",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-el-misri-i-/3212934/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie ElAhl",
+    "address": "394, bd El Houria , 28820  MOHAMMEDIA",
+    "phone": "05 23 32 77 56",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-elahl-/2109969/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie ElAlia",
+    "address": "bd Al Maghrib Al Arabi, El Alia, 28830  MOHAMMEDIA",
+    "phone": "05 23 32 24 35",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-elalia-/0315900/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie ElJoulane",
+    "address": "860, bd Palestine , 28830  MOHAMMEDIA",
+    "phone": "05 23 28 38 27",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-eljoulane-/2186446/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie ElWahda",
+    "address": "427, lotiss. Al Wahda, El Alia, 28830  MOHAMMEDIA",
+    "phone": "05 23 28 58 40",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-elwahda-/3006850/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Essaâda",
+    "address": "242, bd Oued Eddahab, Essaâda, 20800  MOHAMMEDIA",
+    "phone": "05 23 28 71 27",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-essa-da-/2110024/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Essalam",
+    "address": "Hay Hassania II, bloc C n°122, ElAlia, 28830  MOHAMMEDIA",
+    "phone": "05 23 28 43 38",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-essalam-/2176255/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Fadl Allah",
+    "address": "lotiss. Fadl Allah, n°1 MOHAMMEDIA",
+    "phone": "05 23 32 19 63",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-fadl-allah-/3313135/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Fedala",
+    "address": "hay El Falah, bloc 23 n° 419 El Alia, 28830  MOHAMMEDIA",
+    "phone": "05 23 30 20 14",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-fedala-/3212503/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Hamza",
+    "address": "hay Errachidia III, bloc B n°314, El Alia, 28830  MOHAMMEDIA",
+    "phone": "05 23 28 00 71",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-hamza-/3026011/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Hay Erreda",
+    "address": "75 B, lotiss. Reda, El Alia MOHAMMEDIA",
+    "phone": "05 23 28 78 79",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-hay-erreda-/3275787/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Hay Lasamir",
+    "address": "92, Hay Hassania II, Ecran Samir, ElAlia, 20800  MOHAMMEDIA",
+    "phone": "05 23 28 79 12",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-hay-lasamir-/3129358/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Ibn Nafis",
+    "address": "33, bd Monastir, derb Chabab B, 28830  MOHAMMEDIA",
+    "phone": "05 23 30 36 36",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-ibn-nafis-/2172899/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Ibn Rochd",
+    "address": "501, bd Abdelkrim Khattabi, El Alia, 28830  MOHAMMEDIA",
+    "phone": "05 23 32 31 29",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-ibn-rochd-/0316000/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Ibn Sina",
+    "address": "636 Bis, bd Abdelkrim Khattabi, El Alia, 28800  MOHAMMEDIA",
+    "phone": "05 23 32 46 19",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-ibn-sina-/2110280/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Linaya",
+    "address": "75, hay Annasr, mag. 2, 28830  MOHAMMEDIA",
+    "phone": "05 23 28 38 58",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-linaya-/3211656/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Majorelle",
+    "address": "lotiss. Al Massira, Fb 20, 28820  MOHAMMEDIA",
+    "phone": "05 23 28 49 94",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-majorelle-/3214528/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Malak",
+    "address": "1, bd Fatima Zahra, Yamelki q. Nassim MOHAMMEDIA",
+    "phone": "05 23 32 05 06",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-malak-/9016983/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Mannesman",
+    "address": "4, bd Hassan II, résid. Plage Mannesman, 20800  MOHAMMEDIA",
+    "phone": "05 23 30 56 66",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-mannesman-/3149464/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Marjane Mohammedia",
+    "address": "rte sec. 101, c. com. Marjane, 28890  MOHAMMEDIA",
+    "phone": "05 23 31 06 06",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-marjane-mohammedia-/3129401/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Mekka",
+    "address": "27, lotiss. Grini 1, ElAlia, 28820  MOHAMMEDIA",
+    "phone": "05 23 31 71 92",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-mekka-/3060930/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Mesbahiate",
+    "address": "13, bd Cadi Tazi, Hassania I, 28830  MOHAMMEDIA",
+    "phone": "05 23 28 15 61",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-mesbahiate-/2207122/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Mesk Ellil",
+    "address": "39, lotiss. Mesk Ellil , 28820  MOHAMMEDIA",
+    "phone": "05 23 32 54 54",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-mesk-ellil-/3170904/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Mimosa",
+    "address": "douar Benimekraz, km. 6 r.r. 322 Mansouria, 28810  MOHAMMEDIA",
+    "phone": "05 23 32 93 41",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-mimosa-/3214538/mohammedia",
+    "city": "Mohammédia"
+  },
+  {
+    "name": "Pharmacie Miramar",
+    "address": "42, bd des F.a.r. , 28800  MOHAMMEDIA",
+    "phone": "05 23 31 07 98",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-miramar-/2110251/mohammedia",
+    "city": "Mohammédia"
+  }
+]

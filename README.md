@@ -35,4 +35,8 @@
 * [x] Create City Model
 * [x] Create Cities resources
 * [x] Insert cities into database
-* [ ] create end point for cities
+* [x] create end point for cities
+* [x] Insert pharmacies
+* [x] Create pharmacie schema
+* [x] get pharmacies sepecific to city
+* [ ] Add pagination for pharmacy and display total_results (see nodejs_eco project)

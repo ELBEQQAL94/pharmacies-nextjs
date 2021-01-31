@@ -1,0 +1,345 @@
+[
+    {
+        "name": "Pharmacie Populaire",
+        "address": "418, av Mly Idriss 1  LAAYOUNE",
+        "phone": "05 28 89 04 02",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-populaire-/3041907/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Principale",
+        "address": "58, av Idriss 1  LAAYOUNE",
+        "phone": "05 28 89 22 27",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-principale-/3041888/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Quartier Industriel",
+        "address": "av Hizam AlKabir , q. industriel LAAYOUNE",
+        "phone": "05 28 99 18 52",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-quartier-industriel-/3198847/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Rabab",
+        "address": "av Albaat, Hay ElQods n°82, 70000  LAAYOUNE",
+        "phone": "05 28 99 24 24",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-rabab-/3041586/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Rahma",
+        "address": "13, Place Mosquée Det Hem , hay ElWahda LAAYOUNE",
+        "phone": "05 28 89 38 33",
+        "location": "",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Ras AlKhaima",
+        "address": "av Ras AlKhaima  LAAYOUNE",
+        "phone": "05 28 99 63 32",
+        "location": "",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Route Smara",
+        "address": "1, bd de la Mecque , route de Smara LAAYOUNE",
+        "phone": "05 28 98 05 12",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-route-smara-/3198855/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Sakia ElHamra",
+        "address": "bd Med Salem Baïda , n°120, 70000  LAAYOUNE",
+        "phone": "05 28 89 40 15",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-sakia-elhamra-/3051288/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Wahda",
+        "address": "36, av Mekka , 70000  LAAYOUNE",
+        "phone": "05 28 89 39 44",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-wahda-/1783500/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Zerktouni",
+        "address": "14, av Zerktouni  LAAYOUNE",
+        "phone": "05 28 89 29 36",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-zerktouni-/3198856/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Zinalabidine",
+        "address": "71, av Oum Saad , résid. Boubker LAAYOUNE",
+        "phone": "05 28 99 76 60",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-zinalabidine-/3198858/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Grande  Pharmacie",
+        "address": "lot 204 bloc F , cité Mly Rachid LAAYOUNE",
+        "phone": "05 28 98 00 41",
+        "location": "https://www.telecontact.ma/plan-acces/grande-pharmacie-/3198966/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Grande  Pharmacie Skikima",
+        "address": "424, av Skikima , hay Wahda I LAAYOUNE",
+        "phone": "05 28 99 23 71",
+        "location": "https://www.telecontact.ma/plan-acces/grande-pharmacie-skikima-/3198781/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Abadila",
+        "address": "232, bd Skkima  LAAYOUNE",
+        "phone": "05 28 99 00 73",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-abadila-/3198782/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Achraf",
+        "address": "153, bd Skikima , Chadma 1 LAAYOUNE",
+        "phone": "05 28 89 39 75",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-achraf-/3198785/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Aicha",
+        "address": "312, rue Zaouiat Cheikh , Khatramla LAAYOUNE",
+        "phone": "05 28 89 48 64",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-aicha-/3198787/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Al Hizam",
+        "address": "104, av Al Hizam  LAAYOUNE",
+        "phone": "05 28 98 20 55",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-al-hizam-/3237599/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Al Imane",
+        "address": "222, bd Mekka , cité Administrative, 70000  LAAYOUNE",
+        "phone": "05 28 99 31 39",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-al-imane-/3041899/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie AlAssouak",
+        "address": "63, av Sakia ElHamra, souk Lamkhakh  LAAYOUNE",
+        "phone": "05 28 89 24 08",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-alassouak-/3041840/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie AlFadl",
+        "address": "hay Mly Rachid , secteur V LAAYOUNE",
+        "phone": "05 28 99 04 54",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-alfadl-/3041791/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Chifaa",
+        "address": "117, bd Med Salem Baida  LAAYOUNE",
+        "phone": "05 28 89 17 58",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-chifaa-/3041813/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Dcheira",
+        "address": "Place Dchira  LAAYOUNE",
+        "phone": "05 28 89 42 19",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-dcheira-/3198807/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Deredik",
+        "address": "av Hassan 1 , Deredik, 70000  LAAYOUNE",
+        "phone": "05 28 89 38 11",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-deredik-/3041873/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie du Sahara",
+        "address": "9, av Allal Ben Abdellah , port LAAYOUNE",
+        "phone": "05 28 99 81 09",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-du-sahara-/3237743/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie El Aouda",
+        "address": "433, rue Ibn Abida , q. Al Aouda LAAYOUNE",
+        "phone": "05 28 89 00 26",
+        "location": "",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie El Mazmour",
+        "address": "204, av Abderrahman Ibn Abi Bakr , hay Al Qods LAAYOUNE",
+        "phone": "05 28 98 00 08",
+        "location": "",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie ElAndalous",
+        "address": "av Kayd Najem  LAAYOUNE",
+        "phone": "05 28 99 41 23",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-elandalous-/3237895/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie ElMasjid",
+        "address": "bd Moulay Ismail n°33 Colomina  LAAYOUNE",
+        "phone": "05 28 89 43 84",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-elmasjid-/3041806/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie ElMustapha",
+        "address": "35, bd Hassan II  LAAYOUNE",
+        "phone": "05 28 89 23 59",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-elmustapha-/3198833/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Erraha",
+        "address": "707, av de la Mécque , rte de Smara LAAYOUNE",
+        "phone": "05 28 89 21 26",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-erraha-/3198809/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Farhana",
+        "address": "354, av Mecque , rte. Smara LAAYOUNE",
+        "phone": "05 27 65 22 11",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-farhana-/3198795/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Ghizlane",
+        "address": "av Miloud Khaloufi , Catalonia LAAYOUNE",
+        "phone": "05 28 99 32 60",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-ghizlane-/3198812/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Granada",
+        "address": "170, av. Mezouar , 70000  LAAYOUNE",
+        "phone": "05 28 99 07 66",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-granada-/3041584/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Ibn Al Baytar",
+        "address": "lotiss. Al Amal 1 , av Haboha, 70004  LAAYOUNE",
+        "phone": "05 28 99 55 55",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-ibn-al-baytar-/3198818/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Ibn Rochd",
+        "address": "34, Av. de la Marine , 70000  LAAYOUNE",
+        "phone": "05 47 06 14 46",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-ibn-rochd-/1498700/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Ibn Sina",
+        "address": "252, bd Mzouar  LAAYOUNE",
+        "phone": "05 28 89 03 61",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-ibn-sina-/3198820/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie l'Océan",
+        "address": "rue Bahnini  LAAYOUNE",
+        "phone": "05 28 99 83 23",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-l-oc-an-/3237760/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie la Santé",
+        "address": "20, av AlBahria  LAAYOUNE",
+        "phone": "05 28 89 07 81",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-la-sant-/3198826/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Laâyoune",
+        "address": "153, av Jamal Eddine Afghani  LAAYOUNE",
+        "phone": "05 28 89 35 11",
+        "location": "",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Lalla Fatma",
+        "address": "av Lalla Asmaa , AlMarsa LAAYOUNE",
+        "phone": "05 28 99 83 19",
+        "location": "",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Maouhoub",
+        "address": "61, av Masoudi , hay Wahda LAAYOUNE",
+        "phone": "05 28 99 52 22",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-maouhoub-/3198828/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Mekka",
+        "address": "bd de la Mecque  LAAYOUNE",
+        "phone": "05 28 89 20 28",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-mekka-/3198838/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Mly Abdelaziz",
+        "address": "av mly Youssef  LAAYOUNE",
+        "phone": "05 28 89 03 03",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-mly-abdelaziz-/3198831/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Najib",
+        "address": "259 Bis, av Bir Jdid  LAAYOUNE",
+        "phone": "05 28 99 26 62",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-najib-/3198835/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Naserallah",
+        "address": "263, av Smara , lot Al Wahda LAAYOUNE",
+        "phone": "05 28 99 16 24",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-naserallah-/3198840/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Nizar",
+        "address": "81, av Oum Saad  LAAYOUNE",
+        "phone": "05 28 89 00 54",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-nizar-/3198841/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Nouvelle",
+        "address": "136, av Dar Salam  LAAYOUNE",
+        "phone": "05 28 98 37 90",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-nouvelle-/3198844/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Oued Eddahab",
+        "address": "av Mekka , route Smara, 70000  LAAYOUNE",
+        "phone": "05 28 89 10 37",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-oued-eddahab-/3041783/laayoune",
+        "city": "Laâyoune"
+    },
+    {
+        "name": "Pharmacie Azzahra",
+        "address": "av Maghrib Arabi , cité Moulay Rachid n°66 LAAYOUNE",
+        "phone": "05 28 99 79 98",
+        "location": "https://www.telecontact.ma/plan-acces/pharmacie-azzahra-/3198804/laayoune",
+        "city": "Laâyoune"
+    }
+]

@@ -1,0 +1,61 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+/** MAIN COLORS **/
+.primary-color {
+  color:  #00fc01;
+}
+
+.secondary-color {
+  color: #444444;
+}
+
+/** MAIN BACKGROUND COLORS **/
+.primary-bg-color {
+  background-color: #00fc01;
+}
+
+.border-bottom {
+  border-bottom: 2px solid #00fc01;
+  width: 50%;
+}
+
+.pb-21 {
+  padding-bottom: 21px;
+}
+
+.ml-8 {
+  margin-left: 8px;
+}
+
+.mr-8 {
+  margin-right: 8px;
+}
+
+.MuiPaginationItem-page.Mui-selected {
+  background-color:  #00fc01 !important;
+  color: #fff !important;
+}
+
+a {
+  font-size: 1.7rem;
+  transition: 0.5s all linear;
+}
+a:hover {
+  color: #00fc01;
+}

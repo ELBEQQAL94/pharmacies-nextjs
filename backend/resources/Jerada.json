@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Pharmacie Oued ElHeimer",
+    "address": "kiss. Ben Taj n°3 , 60000  JERADA",
+    "phone": "05 36 65 45 96",
+    "location": "",
+    "city": "Jerada"
+  },
+  {
+    "name": "Pharmacie Populaire",
+    "address": "4, rue Itihad  JERADA",
+    "phone": "05 36 82 24 03",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-populaire-/3126328/jerada",
+    "city": "Jerada"
+  },
+  {
+    "name": "Pharmacie Zerktouni",
+    "address": "cité nouvelle, lot. AlAmal n°21  JERADA",
+    "phone": "05 36 82 01 36",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-zerktouni-/3126331/jerada",
+    "city": "Jerada"
+  },
+  {
+    "name": "Pharmacie Anoual",
+    "address": "centre Jerrada  JERADA",
+    "phone": "05 36 82 09 41",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-anoual-/3197580/jerada",
+    "city": "Jerada"
+  },
+  {
+    "name": "Pharmacie Boumzi",
+    "address": "cité Razi n°81  JERADA",
+    "phone": "05 36 82 22 02",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-boumzi-/3126313/jerada",
+    "city": "Jerada"
+  },
+  {
+    "name": "Pharmacie ElMedina",
+    "address": "9, bd Hassan II  JERADA",
+    "phone": "05 36 82 02 47",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-elmedina-/3126871/jerada",
+    "city": "Jerada"
+  },
+  {
+    "name": "Pharmacie Errahma",
+    "address": "hay Ennakhla , n°1 JERADA",
+    "phone": "05 36 82 05 78",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-errahma-/3197588/jerada",
+    "city": "Jerada"
+  },
+  {
+    "name": "Pharmacie Essalam",
+    "address": "164, Hay ElMassira  JERADA",
+    "phone": "05 36 82 17 52",
+    "location": "",
+    "city": "Jerada"
+  },
+  {
+    "name": "Pharmacie Hassi Blal",
+    "address": "place de la Mosquée , Hassi Blal JERADA",
+    "phone": "05 36 52 95 02",
+    "location": "",
+    "city": "Jerada"
+  },
+  {
+    "name": "Pharmacie Ibn Sina",
+    "address": "cité Nouvelle  JERADA",
+    "phone": "05 36 82 13 15",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-ibn-sina-/3128583/jerada",
+    "city": "Jerada"
+  },
+  {
+    "name": "Pharmacie Jerada",
+    "address": "4, rue de la poste , 60550  JERADA",
+    "phone": "05 36 82 13 25",
+    "location": "https://www.telecontact.ma/plan-acces/pharmacie-jerada-/1615900/jerada",
+    "city": "Jerada"
+  }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Pharmacie la Plage",
+        "address": "27, bd. Bir Anzarane  SAIDIA",
+        "phone": "05 36 62 58 08",
+        "location": "",
+        "city": "Saïdia"
+    },
+    {
+        "name": "Pharmacie My Driss",
+        "address": "bd Zerktouni  SAIDIA",
+        "phone": "05 36 62 41 62",
+        "location": "",
+        "city": "Saïdia"
+    },
+    {
+        "name": "Pharmacie Principale",
+        "address": "av Hassan II  SAIDIA",
+        "phone": "05 36 62 59 59",
+        "location": "",
+        "city": "Saïdia"
+    },
+    {
+        "name": "Pharmacie Yahyaoui",
+        "address": "4, rue AlAlaouiene , hay El Ouahda SAIDIA",
+        "phone": "05 36 62 51 88",
+        "location": "",
+        "city": "Saïdia"
+    },
+    {
+        "name": "Pharmacie Al Kasba",
+        "address": "bd My Rachid  SAIDIA",
+        "phone": "05 36 62 41 08",
+        "location": "",
+        "city": "Saïdia"
+    },
+    {
+        "name": "Pharmacie Al Masjid",
+        "address": "bd Alaouiyine , hay El Ouahda SAIDIA",
+        "phone": "05 36 62 57 56",
+        "location": "",
+        "city": "Saïdia"
+    },
+    {
+        "name": "Pharmacie Dallass",
+        "address": "Saidia Centre  SAIDIA",
+        "phone": "05 36 62 55 52",
+        "location": "",
+        "city": "Saïdia"
+    },
+    {
+        "name": "Pharmacie Hlal",
+        "address": "84, bd Hassan I , lotiss. El Fath SAIDIA",
+        "phone": "05 36 62 58 61",
+        "location": "",
+        "city": "Saïdia"
+    },
+    {
+        "name": "Pharmacie la Perle Bleue",
+        "address": "27, bd Smara , hay Trifa SAIDIA",
+        "phone": "05 36 62 41 19",
+        "location": "",
+        "city": "Saïdia"
+    }
+]
